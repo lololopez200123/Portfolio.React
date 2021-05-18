@@ -1,6 +1,5 @@
 import { Box, Grid, Link, SlideFade } from "@chakra-ui/react";
 import { useEffect, useRef, useState } from "react";
-import { Icon } from "@chakra-ui/react";
 
 
 export default function Project({
