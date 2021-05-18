@@ -11,7 +11,10 @@ const theme = extendTheme({
         color:"white"
       },
       a: {
-        color: "violet",
+        color: "white",
+      },
+      footer: {
+        textAlign: "center"
       },
     }),
   },
